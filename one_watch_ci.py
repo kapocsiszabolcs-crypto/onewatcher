@@ -11,7 +11,7 @@ from playwright.sync_api import sync_playwright
 
 URL = "https://www.one.hu/okostelefonok?marka=Apple&tarhely=128"
 
-PRODUCT_NAME = "iPhone 16 128 GB"
+PRODUCT_NAME = "iPhone 16e 128 GB"
 
 NAVIGATION_TIMEOUT_MS = 60_000
 PAGE_WAIT_MS = 5_000
