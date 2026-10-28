@@ -2,7 +2,7 @@ name: one-iphone-watch
 
 on:
   schedule:
-    - cron: "2-59/5 * * * *"
+    - cron: "20 * * * *"
   workflow_dispatch:
 
 permissions:
